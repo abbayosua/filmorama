@@ -1,0 +1,12 @@
+.movie-item {
+    flex-basis: 22%;
+    box-sizing: border-box;
+    margin: 1.5%;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+  }
+  
+  .movie-item img {
+    width: 100%;
+  }

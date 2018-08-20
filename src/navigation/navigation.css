@@ -1,0 +1,6 @@
+.navigation {
+    flex-basis: 20%;
+    min-width: 300px;
+    padding: 20px;
+    text-align: center;
+  }
